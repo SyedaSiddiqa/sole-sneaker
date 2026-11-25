@@ -1,0 +1,8 @@
+sneaker.glb — "MaterialsVariantsShoe"
+Source: Khronos Group glTF-Sample-Assets
+        https://github.com/KhronosGroup/glTF-Sample-Assets/tree/main/Models/MaterialsVariantsShoe
+Author: Eric Chadwick / Wayfair
+License: CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/) — attribution required.
+
+To use your own model, replace this file (or change SNEAKER_URL in src/components/ShoeModel.jsx).
+Export from Blender as glTF Binary (.glb), ideally with Draco/meshopt compression and <2K textures.
